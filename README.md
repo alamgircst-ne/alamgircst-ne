@@ -10,9 +10,9 @@
 
 ## Skills: CCNA / MTCNA / OLT GPON / OLT EPON / CCTV & IP CAMERA
 
-- 🔭 I’m currently working on IT Bangladesh  
-- 🌱 I’m currently learning Netwkorking & System Administration 
-- 👯 I’m looking to collaborate on github 
+- ✅ I’m currently working on IT Bangladesh  
+- ✅ I’m currently learning Netwkorking & System Administration 
+- ✅ I’m looking to collaborate on github 
 
 
 
