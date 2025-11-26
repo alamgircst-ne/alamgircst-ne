@@ -1,6 +1,9 @@
+
+![ Junior Network Engineer | CCNA | MTCNA](https://media.licdn.com/dms/image/v2/D5616AQFY5QH0UeVBZQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqapXzXJoAY-/0/1763531129170?e=1766016000&v=beta&t=MI6mU8xyo5Wn3BkSd5m2CSmkuOessQ8fzBoXQZLU4ls)
+
 # Hi there 👋, Alamgir Hosen
 ## Junior Network Engineer | CCNA | MTCNA
-![ Junior Network Engineer | CCNA | MTCNA](https://media.licdn.com/dms/image/v2/D5616AQFY5QH0UeVBZQ/profile-displaybackgroundimage-shrink_350_1400/B56ZqapXzXJoAY-/0/1763531129170?e=1766016000&v=beta&t=MI6mU8xyo5Wn3BkSd5m2CSmkuOessQ8fzBoXQZLU4ls)
+
 
 ### I am a Junior IT Support Engineer with strong skills in networking, system support, and basic security solutions. I have successfully completed industry-recognized including Cisco CCNA and MikroTik MTCNA, along with hands-on experience in CCTV installation and troubleshooting.
 
